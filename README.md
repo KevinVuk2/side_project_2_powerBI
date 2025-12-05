@@ -25,21 +25,21 @@ The focus is to provide a full end-to-end analytics view of the fashion store’
 💡 Key Insights
 
 Here are some of the metrics and findings surfaced in the dashboard:
-- Sales & Orders
+1. Sales & Orders
 - Order frequency reveals clear weekly and monthly seasonality, with peaks driven by campaigns and channel pushes.
 - A dynamic moving average line helps track performance trends over time.
 - Top-performing months contribute disproportionately to overall revenue.
-- Product Performance
+2. Product Performance
 - The Top 5 best-selling products generate a significant percentage of total sales.
 - A separate analysis highlights bottom 5 products, useful for stock clearance, discontinuation, or marketing improvement.
-- Customer Insights
+3. Customer Insights
 - Customer base spans multiple countries and age groups.
 - Repeat purchases and order patterns help understand customer loyalty.
-- Marketing Campaign Impact
+4. Marketing Campaign Impact
 - Campaign-linked sales correlate strongly with promotional windows.
 - WoW (week-over-week) and MoM (month-over-month) metrics evaluate campaign success.
 - KPIs include arrows showing performance shifts over time.
-- Channel Overview
+5. Channel Overview
 - Sales channels (e.g., Online, Retail, Mobile App) show distinct performance and customer engagement patterns.
 
 # 📊 Dashboard Visualizations
