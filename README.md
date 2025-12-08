@@ -1,3 +1,6 @@
+
+<img width="1282" height="722" alt="{324AACCD-A928-46E9-8555-B48EE5654305}" src="https://github.com/user-attachments/assets/984f8334-157f-447f-9090-70dec229b22a" />
+
 # 🛍️ Fashion Store E-commerce Dashboard
 
 This repository contains the Power BI project file and datasets for a comprehensive analytics solution built for an online fashion retailer. The dashboard uncovers deep insights into customer behavior, product performance, sales trends, campaigns, and operational efficiency.
