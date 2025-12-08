@@ -1,5 +1,4 @@
-
-<img width="1282" height="722" alt="{324AACCD-A928-46E9-8555-B48EE5654305}" src="https://github.com/user-attachments/assets/984f8334-157f-447f-9090-70dec229b22a" />
+<img width="1415" height="838" alt="{CD0CB487-5822-42FB-9656-662D03F1E180}" src="https://github.com/user-attachments/assets/3749fb11-620d-4547-95a2-b5d595a3bbfd" />
 
 # 🛍️ Fashion Store E-commerce Dashboard
 
